@@ -3,11 +3,11 @@
 ## 💫 About Me:
 I am an aspiring front-end developer, UX researcher, and UI/UX designer.
 I am passionate about creating user-friendly and visually appealing experiences.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AliveOrdinary&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliveOrdinary&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Languages and Tools:
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -21,13 +21,13 @@ I am passionate about creating user-friendly and visually appealing experiences.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rq6uu5stoyedqols5zmeqk35m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rq6uu5stoyedqols5zmeqk35m&redirect=true)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
