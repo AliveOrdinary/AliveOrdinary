@@ -21,6 +21,8 @@ I am passionate about creating user-friendly and visually appealing experiences.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+
+
 ### Listening to...
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rq6uu5stoyedqols5zmeqk35m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rq6uu5stoyedqols5zmeqk35m&redirect=true)
 
